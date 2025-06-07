@@ -1,6 +1,6 @@
 # My Glimmer of H💚pe
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="500px" />
+<img src="https://images.squarespace-cdn.com/content/v1/5acea6725417fc059ddcc33f/1639444327892-YCWT3ZZ767H12IBMXTCW/Year+of+St+Joseph+-+bigger.JPG?format=1500w" align="right" height="500px" />
 
 June 7, 2025
 
@@ -31,4 +31,4 @@ Amen.
 
 ---
 
-&copy; 2025 &bull; MIKAYELA23 &bull; 
+&copy; 2025 &bull; MIKAYELA23

@@ -22,13 +22,13 @@ To believe that God is working even when I cannot see it.
 Stand beside me as you stood beside Jesus.
 Guide me with your silence, strengthen me with your faith,
 And hold me in the prayers you whisper to Heaven.
-In your quiet way, remind me:
+In your quiet way, remind me://
 God is near, and I am not alone.
 
 Amen. 
 
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/mikayela23/the-glimmer-of-hope/issues/1)
+[![](https://img.shields.io/badge)
 
 ---
 

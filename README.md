@@ -1,6 +1,6 @@
-# A Prayer to St. Joseph, My Glimmer of H💚pe
+# My Glimmer of H💚pe
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="500px" />
 
 June 7, 2025
 

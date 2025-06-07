@@ -2,7 +2,8 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5acea6725417fc059ddcc33f/1639444327892-YCWT3ZZ767H12IBMXTCW/Year+of+St+Joseph+-+bigger.JPG?format=1500w" align="right" height="500px" />
 
-June 7, 2025
+ _June 07, 2025_
+
 
 St. Joseph, my gentle guardian, <br>
 In the silence of your life, I hear the loudest echo of love.<br>
@@ -28,7 +29,8 @@ God is near, and I am not alone.<br>
 Amen. 
 
 
-[![](https://img.shields.io/%E2%86%92-1f883d?style=github&labelColor=197935)]
+
+
 ---
 
-&copy; 2025 &bull; GitHub &bull; MIKAYELA23
+&copy; 2025 GitHub

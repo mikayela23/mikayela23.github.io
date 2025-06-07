@@ -1,6 +1,6 @@
 # A Prayer to St. Joseph, My Glimmer of H💚pe
 
-<img src="[https://octodex.github.com/images/Professortocat_v2.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgiuseppe&psig=AOvVaw08fi05wEhiQ1cewpYAAs9t&ust=1749355917709000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLiT2P-43o0DFQAAAAAdAAAAABAE)" align="right" height="200px" />
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgiuseppe&psig=AOvVaw08fi05wEhiQ1cewpYAAs9t&ust=1749355917709000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLiT2P-43o0DFQAAAAAdAAAAABAE)" align="right" height="200px" />
 
 June 7, 2025
 
@@ -27,7 +27,7 @@ God is near, and I am not alone.<br>
 <br>
 Amen. 
 
-[![](https://img.shields.io)]
+(https://img.shields.io)
 
 ---
 

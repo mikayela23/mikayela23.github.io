@@ -11,7 +11,7 @@ You, who said so little but gave so much,<br>
 Are the quiet strength I look to when mine runs low.<br>
 <br>
 When fear creeps in, when doubt clouds my path,<br>
-You are the glimmer of hope God sends —<br>
+You are the glimmer of hope God sends <br>
 Not in thunder or fire,<br>
 But in the steady presence of a father who never leaves.<br>
 <br>

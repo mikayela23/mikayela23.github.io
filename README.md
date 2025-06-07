@@ -33,4 +33,4 @@ Amen.
 
 ---
 
-&copy; 2025 MIKAYELA23 &bull; GitHub
+&copy; 2025 Kayla J &bull; GitHub

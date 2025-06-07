@@ -28,7 +28,7 @@ God is near, and I am not alone.<br>
 Amen. 
 
 
-[![](https://img.shields.io/badge/%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)]
+[![](https://img.shields.io/%E2%86%92-1f883d?style=github&labelColor=197935)]
 ---
 
-&copy; 2025 &bull; [GitHub](https://g.co/kgs/KuodZW3) &bull; MIKAYELA23
+&copy; 2025 &bull; GitHub &bull; MIKAYELA23

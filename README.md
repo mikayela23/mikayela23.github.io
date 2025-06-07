@@ -27,7 +27,7 @@ God is near, and I am not alone.<br>
 <br>
 Amen. 
 
-(https://img.shields.io)
+<i class="fab fa-github"></i>
 
 ---
 
